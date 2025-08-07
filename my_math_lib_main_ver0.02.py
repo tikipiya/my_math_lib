@@ -1,4 +1,4 @@
-#my_math_lib_main_ver0.01.py
+#my_math_lib_main_ver0.02.py
 import math
 import random
 
